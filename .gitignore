@@ -1,0 +1,20 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment
+*.env
+
+# SQL Server database files
+*.mdf
+*.ldf
+*.ndf
+
+# Temp and backup files
+*.log
+*.bak
+*.tmp
+
+# IDE
+.vscode/
+.idea/
